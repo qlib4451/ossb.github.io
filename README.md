@@ -1,4 +1,4 @@
-# LS-RP Turfmap
+# LSSD OSSB Turfmap
 
 Turfmap of LS-RP. It may have some minor differences compared to the original codes.
 
