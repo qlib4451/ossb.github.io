@@ -1,6 +1,3 @@
-{
-  "pandillas": [
-    {
   {
   "id": 3656,
   "name": "BARRIO LOS PADRINOS 13",
