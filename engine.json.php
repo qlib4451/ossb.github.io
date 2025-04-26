@@ -1,17 +1,38 @@
 {
   "factions": [
+{
+  "id": 9033,
+  "name": "BARRIO LOS PADRINOS 13",
+  "color": "042285",
+  "thread": "https://sheriff.sarp.es/viewtopic.php?t=997&sid=3ce42b0c8fb71ace79495972e7ff4321",
+  "turfIDs": [
+    "9033"
+  ],
+  "turfs": [
+    "5221.33349609375 4812.33349609375 5405.33349609375 4814.33349609375 5409.33349609375 4722.33349609375 5221.33349609375 4728.33349609375"
+  ],
+  "turfcenter": [
+    [
+      5314.33349609375,
+      4769.33349609375
+    ]
+  ],
+  "turfPolygon": [],
+  "dimensions": [
+    [
+      188,
+      92
+    ]
+  ],
+  "limits": [
     {
-      "id": "0",
-      "name": "3rd Gate Piru",
-      "color": "000000",
-      "thread": "https://forum.ls-rp.com/viewtopic.php?f=5&t=644835",
-      "turfIDs": ["1316"],
-      "turfs": ["4872 4952 4956 4952 4955 4851 4824 4819 4809 4837 4784 4835 4717 4816 4698 4818 4698 4842 4688 4866 4679 4875 4678 4945 4694 4950 4783 4952 "],
-      "turfcenter": [[4773.9285714286,4879.2857142857]],
-      "turfPolygon":[],
-      "dimensions":[[278,136]],
-      "limits": [{"minx":"4678","miny":"4816","maxx":"4956","maxy":"4952"}]
-    },
+      "minx": 5221.33349609375,
+      "miny": 4722.33349609375,
+      "maxx": 5409.33349609375,
+      "maxy": 4814.33349609375
+    }
+  ]
+}
     {
       "id": "2",
       "name": "Los Zetas; Fuentes y Laresca Organización",
